@@ -48,7 +48,7 @@ Works with mobile versions too.
 1. Clone the repository:
 
     ```
-    $ git clone https://github.com/librespeed/speedtest-rust.git
+    $ git clone https://github.com/ChrisChan1117/speedtest-rust.git
     ```
 
 2. Build:
@@ -115,8 +115,6 @@ Works with mobile versions too.
 > Therefore, your PRs are accepted to improve and solve problems
 
 ## License
-Copyright (C) 2016-2024 Federico Dossena\
-Copyright (C) 2024 Sudo Dios
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Lesser General Public License as published by
